@@ -1,0 +1,28 @@
+div {
+  margin-top: 2rem;
+}
+input {
+  width: 20rem;
+  height: 1.5rem;
+  background-color: #222;
+  color: white;
+  border-radius: 1rem;
+  border: 1px solid black;
+  padding: 0.3rem;
+}
+button {
+  border-radius: 0.5rem;
+  border: 1px solid black;
+  cursor: pointer;
+  background: linear-gradient(45deg, #ff00ff, #00ffff);
+  padding: 0.5rem;
+  margin-left: 1rem;
+  width: 5.5rem;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #121212;
+}
